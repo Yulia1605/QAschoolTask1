@@ -11,7 +11,7 @@ public class OrderPage extends MyLibrary {
 
 By searchFieldLocator=By.xpath("//input[@class='x-search__field']");
 By searchButtonLocator=By.xpath("//button[@class='x-search__button']");
-// id(ниже) часто меняется
+// id(ниже) часто меняется.
 By buyButtonLocator=By.xpath("//a[@id='shopping-cart-add-element-text-542738112']");
 By deleteIconLocator=By.xpath("//span[@class='x-shc-item__control']");
 By backToBuyLocator=By.xpath("//span[@class='x-button x-button_theme_purple']");
